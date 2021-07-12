@@ -69,7 +69,7 @@
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.4",
     "coveralls": "^3.0.2",
-    "css-loader": "^2.0.1",
+    "css-loader": "^5.2.6",
     "css-to-string-loader": "^0.1.3",
     "cypress": "4.0.1",
     "documentation": "^12.0.1",
